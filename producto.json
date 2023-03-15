@@ -1,0 +1,91 @@
+{
+  "ConfiguracionPagina": {
+    "marca": "MegaDron",
+    "menuColor": "lightblue",
+    "footerColor": "slategrey",
+    "precioEstilos": "background: orangered; color: white; font-weight: bold; display: flex; justify-content: center; aling-items: center;",
+    "menus": [
+      {
+        "etiqueta": "Inicio",
+        "url": "?"
+      },
+      {
+        "etiqueta": "Tienda",
+        "url": "?"
+      }
+    ]
+  },
+  "Producto": {
+    "id": 1,
+    "nombre": "Poco F4",
+    "precio": "1180",
+    "Categoria": {
+      "id": 1,
+      "descripcion": "Celulares Xaomi"
+    }
+  },
+  "Categoria": {
+    "function Object() { [native code] }": ""
+  },
+  "Categorias": [
+    {
+      "id": 1,
+      "descripcion": "Celulares Xaomi"
+    },
+    {
+      "id": 2,
+      "descripcion": "Televisores Samsung"
+    },
+    {
+      "id": 4,
+      "descripcion": "Pantallas 19 '"
+    },
+    {
+      "id": 5,
+      "descripcion": "Cargadores hp"
+    },
+    {
+      "descripcion": "Routes Axess",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "descripcion": "Tablets 14 ' Sansumg"
+    }
+  ],
+  "Productos": [
+    {
+      "id": 1,
+      "nombre": "Poco F4",
+      "precio": "1180",
+      "Categoria": {
+        "id": 1,
+        "descripcion": "Celulares Xaomi"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Cargador 34W",
+      "precio": "80",
+      "Categoria": {
+        "id": 5,
+        "descripcion": "Cargadores hp"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Tablet 234",
+      "precio": 1500,
+      "Categoria": {
+        "id": 7,
+        "descripcion": "Tablets 14 ' Sansumg"
+      }
+    }
+  ],
+  "Pedido": {
+    "id": 1,
+    "cantidad": 0,
+    "color": null,
+    "precio": 0
+  }
+}

@@ -1,4 +1,4 @@
-# PRACTICA VUE #2
+# EXAMEN VUE #2
 ## Vue v3 
 
 ## INTEGRANTES
